@@ -1,29 +1,46 @@
-# Hi there, I'm ZeroXJacks! 👋 
-### 🛡️ Security Researcher & Bug Hunter
+# ZeroXJacks
+### Security Researcher & Bug Hunter
+
 I am a dedicated security researcher focused on identifying and reporting vulnerabilities (Zero-days & N-days). I specialize in deep-dive analysis and contributing to a safer digital environment.
+
 ---
+
 ### Recent CVEs & Vulnerabilities
-I actively document my findings to contribute to the security community. Here are some of my recent assignments:
-| CVE ID | Description | Technical Writeup |
-| :--- | :--- | :--- |
-| **CVE-2026-25762** | Vulnerability Research & Disclosure | [View Report](https://github.com/ZeroXJacks/CVEs/blob/main/CVE-2026-25762.md) |
-| **CVE-2026-25535** | Security Flaw in 2026 Discovery | [View Report](https://github.com/ZeroXJacks/CVEs/blob/main/2026/CVE-2026-25535.md) |
-| **CVE-2026-25755** | Critical Vulnerability Analysis | [View Report](https://github.com/ZeroXJacks/CVEs/blob/main/2026/CVE-2026-25755.md) |
-| **CVE-2026-25756** | High Severity Disclosure | [View Report](https://github.com/ZeroXJacks/CVEs/blob/main/2026/CVE-2026-25756.md) |
+| CVE ID | Description | Writeup |
+| :--- | :--- | :---: |
+| ![CVE](https://img.shields.io/badge/CVE--2026--25762-Critical-red?style=flat-square) | Vulnerability Research & Disclosure | [**View Report**](https://github.com/ZeroXJacks/CVEs/blob/main/CVE-2026-25762.md) |
+| ![CVE](https://img.shields.io/badge/CVE--2026--25535-High-orange?style=flat-square) | Security Flaw in 2026 Discovery | [**View Report**](https://github.com/ZeroXJacks/CVEs/blob/main/2026/CVE-2026-25535.md) |
+| ![CVE](https://img.shields.io/badge/CVE--2026--25755-Critical-red?style=flat-square) | Critical Vulnerability Analysis | [**View Report**](https://github.com/ZeroXJacks/CVEs/blob/main/2026/CVE-2026-25755.md) |
+| ![CVE](https://img.shields.io/badge/CVE--2026--25756-High-orange?style=flat-square) | High Severity Disclosure | [**View Report**](https://github.com/ZeroXJacks/CVEs/blob/main/2026/CVE-2026-25756.md) |
 
 ---
-### Tech Stack & Skills
-- **Vulnerability Research:** Web Security, Binary Exploitation, Reverse Engineering.
-- **Languages:** Python, Bash, JavaScript, C/C++.
-- **Tools:** Burp Suite, Metasploit, Nmap, Wireshark, GDB.
+### Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,bash,js,linux,kali,git,postman" />
+</p>
+
+### Expertise
+* **Vulnerability Research:** Web Security, Binary Exploitation, Reverse Engineering.
+* **Security Tools:** Burp Suite, Metasploit, Nmap, Wireshark, GDB.
 
 ---
-### Connect with me:
-[![Email](https://img.shields.io/badge/Email-ZeroXJacks%40proton.me-D84142?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ZeroXJacks@proton.me)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/ZeroXJacks)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ZeroXJacks)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@ZeroXJacks)
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/ZeroXJacks)
+
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroXJacks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
 ---
-*"The quieter you become, the more you are able to hear."*
+
+### Connect with me
+<p align="left">
+<a href="mailto:ZeroXJacks@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8E8E93?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+<a href="https://t.me/ZeroXJacks"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://youtube.com/@ZeroXJacks"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://twitter.com/ZeroXJacks"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://facebook.com/ZeroXJacks"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+---
+<p align="center">
+  <i>"The quieter you become, the more you are able to hear."</i>
+</p>
