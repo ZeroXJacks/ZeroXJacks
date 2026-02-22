@@ -25,13 +25,6 @@ I am a dedicated security researcher focused on identifying and reporting vulner
 
 ---
 
-### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeroXJacks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### Connect with me
 <p align="left">
 <a href="mailto:ZeroXJacks@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8E8E93?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
