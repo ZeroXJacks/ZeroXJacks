@@ -9,7 +9,7 @@ I actively document my findings to contribute to the security community. Here ar
 | **CVE-2026-25762** | Vulnerability Research & Disclosure | [View Report](https://github.com/ZeroXJacks/CVEs/blob/main/CVE-2026-25762.md) |
 | **CVE-2026-25535** | Security Flaw in 2026 Discovery | [View Report](https://github.com/ZeroXJacks/CVEs/blob/main/2026/CVE-2026-25535.md) |
 | **CVE-2026-25755** | Critical Vulnerability Analysis | [View Report](https://github.com/ZeroXJacks/CVEs/blob/main/2026/CVE-2026-25755.md) |
-| **CVE-2026-25756** | High Severity Disclosure | [View Report 📄](https://github.com/ZeroXJacks/CVEs/blob/main/2026/CVE-2026-25756.md) |
+| **CVE-2026-25756** | High Severity Disclosure | [View Report](https://github.com/ZeroXJacks/CVEs/blob/main/2026/CVE-2026-25756.md) |
 
 ---
 ### Tech Stack & Skills
