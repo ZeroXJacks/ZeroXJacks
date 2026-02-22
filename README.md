@@ -1,7 +1,7 @@
 # ZeroXJacks
 ### Security Researcher & Bug Hunter
 
-I am a dedicated security researcher focused on identifying and reporting vulnerabilities (Zero-days & N-days). I specialize in deep-dive analysis and contributing to a safer digital environment.
+I am a dedicated security researcher focused on identifying and reporting vulnerabilities. I specialize in deep-dive analysis and contributing to a safer digital environment.
 
 ---
 
@@ -21,7 +21,6 @@ I am a dedicated security researcher focused on identifying and reporting vulner
 
 ### Expertise
 * **Vulnerability Research:** Web Security, Binary Exploitation, Reverse Engineering.
-* **Security Tools:** Burp Suite, Metasploit, Nmap, Wireshark, GDB.
 
 ---
 
