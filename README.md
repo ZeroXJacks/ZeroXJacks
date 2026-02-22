@@ -1,4 +1,4 @@
-# ZeroXJacks
+# 0XJacks
 ### Security Researcher & Bug Hunter
 
 I am a dedicated security researcher focused on identifying and reporting vulnerabilities. I specialize in deep-dive analysis and contributing to a safer digital environment.
