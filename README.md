@@ -8,7 +8,7 @@ I am a dedicated security researcher focused on identifying and reporting vulner
 ### Recent CVEs & Vulnerabilities
 | CVE ID | Description | Writeup |
 | :--- | :--- | :---: |
-| ![CVE](https://img.shields.io/badge/CVE--2026--25762-Critical-red?style=flat-square) | Vulnerability Research & Disclosure | [**View Report**](https://github.com/ZeroXJacks/CVEs/blob/main/CVE-2026-25762.md) |
+| ![CVE](https://img.shields.io/badge/CVE--2026--25762-Critical-red?style=flat-square) | @adonisjs/bodyparser | [**View Report**](https://github.com/ZeroXJacks/CVEs/blob/main/CVE-2026-25762.md) |
 | ![CVE](https://img.shields.io/badge/CVE--2026--25535-High-orange?style=flat-square) | Security Flaw in 2026 Discovery | [**View Report**](https://github.com/ZeroXJacks/CVEs/blob/main/2026/CVE-2026-25535.md) |
 | ![CVE](https://img.shields.io/badge/CVE--2026--25755-Critical-red?style=flat-square) | Critical Vulnerability Analysis | [**View Report**](https://github.com/ZeroXJacks/CVEs/blob/main/2026/CVE-2026-25755.md) |
 | ![CVE](https://img.shields.io/badge/CVE--2026--25756-High-orange?style=flat-square) | High Severity Disclosure | [**View Report**](https://github.com/ZeroXJacks/CVEs/blob/main/2026/CVE-2026-25756.md) |
@@ -16,7 +16,7 @@ I am a dedicated security researcher focused on identifying and reporting vulner
 ---
 ### Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,bash,js,linux,kali,git,postman" />
+  <img src="https://skillicons.dev/icons?i=py,bash,js,linux,git,postman" />
 </p>
 
 ### Expertise
