@@ -1,5 +1,5 @@
 # 0XJacks
-### Full-Stack Security Researcher & Source Code Auditor
+### Security Researcher & Source Code Auditor
 
 I specialize in identifying complex logic flaws and resource management vulnerabilities in core libraries and frameworks. My work involves deep-dive analysis of memory handling and input sanitization mechanisms.
 
