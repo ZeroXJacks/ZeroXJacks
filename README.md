@@ -11,7 +11,7 @@ I specialize in identifying complex logic flaws and resource management vulnerab
 | ![CVE](https://img.shields.io/badge/CVE--2026--25762-Critical-red?style=flat-square) | **@adonisjs/bodyparser** | Remote Memory Exhaustion (DoS) | [**View**](https://github.com/ZeroXJacks/CVEs/blob/main/CVE-2026-25762.md) |
 | ![CVE](https://img.shields.io/badge/CVE--2026--25755-Critical-red?style=flat-square) | **jsPDF (Core)** | PDF Object Injection (Sandbox Escape) | [**View**](https://github.com/ZeroXJacks/CVEs/blob/main/2026/CVE-2026-25755.md) |
 | ![CVE](https://img.shields.io/badge/CVE--2026--25535-High-orange?style=flat-square) | **jsPDF (GIF Module)** | Resource Exhaustion (Heap Overflow) | [**View**](https://github.com/ZeroXJacks/CVEs/blob/main/2026/CVE-2026-25535.md) |
-| ![CVE](https://img.shields.io/badge/CVE--2026--28278-High-orange?style=flat-square) | **MediaWiki (Extension)** | Stored XSS (Sanitization Bypass) | [**View**](https://github.com/ZeroXJacks/CVEs/blob/main/2026/CVE-2026-28278.md) |
+
 
 ---
 
