@@ -30,7 +30,6 @@ I specialize in identifying complex logic flaws and resource management vulnerab
 
 ### Presence & Verification
 <p align="left">
-<a href="https://phabricator.wikimedia.org/p/0xJacks/"><img src="https://img.shields.io/badge/Phabricator-Wiki-green?style=for-the-badge&logo=wikimedia-commons&logoColor=white" /></a>
 <a href="mailto:ZeroXJacks@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8E8E93?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
 <a href="https://t.me/ZeroXJacks"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://youtube.com/@ZeroXJacks"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
