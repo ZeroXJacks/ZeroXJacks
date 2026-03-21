@@ -163,7 +163,4 @@ STATUS      : [●] ACTIVE — Hunting Bugs
 ║                                                       ║
 ╚═══════════════════════════════════════════════════════╝
 ```
-
-![](https://komarev.com/ghpvc/?username=ZeroXJacks&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)
-
 </div>
