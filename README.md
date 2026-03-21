@@ -154,13 +154,4 @@ STATUS      : [●] ACTIVE — Hunting Bugs
 ---
 
 <div align="center">
-
-```
-╔═══════════════════════════════════════════════════════╗
-║                                                       ║
-║   "The quieter you become,                            ║
-║         the more you are able to hear."               ║
-║                                                       ║
-╚═══════════════════════════════════════════════════════╝
-```
 </div>
