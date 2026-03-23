@@ -41,10 +41,6 @@ TARGETS     : Core Libraries & Frameworks
 STATUS      : [●] ACTIVE — Hunting Bugs
 ```
 
-> *Specializes in identifying complex logic flaws and resource management vulnerabilities in core libraries and frameworks. Deep-dive analysis of memory handling and input sanitization mechanisms.*
-
----
-
 ## `> ls ./CVEs/`
 
 <div align="center">
