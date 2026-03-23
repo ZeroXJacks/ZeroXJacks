@@ -28,31 +28,7 @@
 
 </div>
 
-## `> whoami`
-
-```bash
-$ cat /etc/researcher.conf
-
-NAME        : 0XJacks
-ROLE        : Security Researcher & Source Code Auditor
-FOCUS       : Logic Flaws · Resource Management · Memory Handling
-ECOSYSTEM   : Node.js · PHP
-TARGETS     : Core Libraries & Frameworks
-STATUS      : [●] ACTIVE — Hunting Bugs
 ```
-
-## `> ls ./CVEs/`
-
-<div align="center">
-
-| `[!]` | CVE ID | Target Package | Vulnerability Class | Severity |
-|:---:|:---|:---|:---|:---:|
-| 🔴 | **CVE-2026-25762** | `@adonisjs/bodyparser` | Remote Memory Exhaustion (DoS) | ![Critical](https://img.shields.io/badge/CRITICAL-ff3c6e?style=flat-square&logoColor=white) |
-| 🔴 | **CVE-2026-25755** | `jsPDF` *(Core)* | PDF Object Injection — Sandbox Escape | ![Critical](https://img.shields.io/badge/CRITICAL-ff3c6e?style=flat-square&logoColor=white) |
-| 🟠 | **CVE-2026-25535** | `jsPDF` *(GIF Module)* | Resource Exhaustion — Heap Overflow | ![High](https://img.shields.io/badge/HIGH-ff8c00?style=flat-square&logoColor=white) |
-
-</div>
-
 <details>
 <summary><code>> cat CVE-2026-25762.md</code></summary>
 
