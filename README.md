@@ -1,12 +1,26 @@
-
 <div align="center">
 
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8E8E93?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ZeroXJacks@proton.me)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ZeroXJacks)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ZeroXJacks)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZeroXJacks)
+# Ibrahim Zain
 
-</div>
+### Security Researcher
 
-<div align="center">
-</div>
+Vulnerability Research • Open Source Security • Network Security
+
+
+---
+## About Me
+Security researcher focused on vulnerability discovery, responsible disclosure, and open-source security.
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeroXJacks&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeroXJacks&layout=compact" />
+</p>
+
+---
+
+> Building, researching, and learning.
