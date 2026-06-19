@@ -3,10 +3,6 @@
 # Ibrahim Zain
 
 ### Security Researcher
-
-Vulnerability Research • Open Source Security • Network Security
-
-
 ---
 ## About Me
 Security researcher focused on vulnerability discovery, responsible disclosure, and open-source security.
