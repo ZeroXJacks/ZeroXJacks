@@ -2,7 +2,6 @@
 <img src="github-profile-banner.svg" alt="Ibrahim Zain — Security Researcher" width="100%" />
 </a>   
 
-
 [![GitHub](https://img.shields.io/badge/GitHub-ZeroXJacks-0d1117?style=for-the-badge&logo=github)](https://github.com/ZeroXJacks)[![Security Research](https://img.shields.io/badge/Focus-Security%20Research-00f5d4?style=for-the-badge&logo=hackthebox&logoColor=0d1117)](#about)[![Open Source](https://img.shields.io/badge/Passion-Open%20Source-7b61ff?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](#focus)
 
 </div>
